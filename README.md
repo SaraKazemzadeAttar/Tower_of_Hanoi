@@ -31,6 +31,7 @@ This is a Python implementation of the Tower of Hanoi problem using the Pygame l
    - images.png
    - back.png
    - hanoi.py
+   
 If you could not place the repository in that path , you can change the path in the code, line 62
 
 ## How to Play
